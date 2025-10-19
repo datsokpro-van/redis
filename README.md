@@ -39,7 +39,7 @@
 
 Скриншот подтверждающий запуск:
 
-![Задание 2: Memcached запущен](zadanie2_Memcached.png)
+![Задание 2: Memcached запущен](screenshots/zadanie2_Memcached.png)
 
 ---
 
@@ -54,7 +54,7 @@
 - наличие ключей при первом `get`,
 - отсутствие ключей при повторном `get` после истечения TTL.
 
-![Задание 3: TTL в Memcached](zadanie3_Memcached.png)
+![Задание 3: TTL в Memcached](screenshots/zadanie3_Memcached.png)
 
 ---
 
@@ -72,4 +72,4 @@
 
 Скриншот подтверждает успешную запись и чтение данных.
 
-![Задание 4: Работа с Redis](zadanie4_Redis.png)
+![Задание 4: Работа с Redis](screenshots/zadanie4_Redis.png)
